@@ -1,0 +1,15 @@
+generations:
+  - name: "Sixth Generation with xDrive (F10/F11)"
+    start_year: 2010
+    end_year: 2017
+    description: "The F10/F11 generation 5 Series was the first to widely offer BMW's xDrive all-wheel drive system across multiple variants globally. The xDrive system provided intelligent torque distribution between front and rear axles, enhancing traction in adverse conditions while maintaining the 5 Series' dynamic handling characteristics. Available on both sedan (F10) and wagon (F11) body styles, the xDrive system was offered with a range of engines from four-cylinder diesels to powerful V8s. This generation featured an eight-speed automatic transmission, efficient turbocharged engines, and advanced driver assistance systems."
+
+  - name: "Seventh Generation with xDrive (G30/G31)"
+    start_year: 2017
+    end_year: 2023
+    description: "The G30/G31 5 Series refined the xDrive all-wheel drive system with faster response times and more sophisticated electronic control. The system could send up to 100% of power to the rear wheels when appropriate for improved handling. xDrive was available on most engine variants, including the plug-in hybrid 530e and the performance-oriented M550i, which featured M Performance-tuned suspension and a powerful V8 engine. The G30 generation also introduced the M5 with M xDrive, featuring a switchable AWD system that could operate in rear-wheel drive mode for track driving. This generation combined exceptional comfort, advanced technology, and engaging dynamics regardless of weather conditions."
+
+  - name: "Eighth Generation with xDrive (G60)"
+    start_year: 2023
+    end_year: null
+    description: "The latest G60 5 Series continues to offer xDrive all-wheel drive across much of the range, now with further refinements to improve efficiency and dynamic response. The system is available with mild-hybrid, plug-in hybrid, and conventional powertrains, providing all-weather capability without significantly compromising fuel efficiency. The xDrive system is fully integrated with the vehicle's adaptive suspension systems and driving dynamics control, allowing drivers to tailor the car's character. This generation features BMW's most advanced driver assistance systems and digital technology, maintaining the 5 Series' position as a technological flagship while providing the security and handling benefits of all-wheel drive in a luxurious executive package."
